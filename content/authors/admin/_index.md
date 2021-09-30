@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Prof. Enes Pasalic, PhD
+title: Enes Pasalic, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Head of the center
+role: Full Professor, Head of the center
 
 # Organizations/Affiliations
 organizations:
