@@ -1,7 +1,7 @@
 ---
 title: WCC 2022
 
-event:  WCC 2022:: The Twelfth International Workshop on Coding and Cryptography 
+event:  WCC 2022 - The Twelfth International Workshop on Coding and Cryptography 
 event_url: https://www.wcc2022.uni-rostock.de/home/
 
 location: Rostock, Germany
