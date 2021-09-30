@@ -6,9 +6,6 @@ authors:
 - Fengrong Zhang
 - Yongzhuang Wei
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2021-05-13T00:00:00Z"
 doi: ""
 
@@ -67,9 +64,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
