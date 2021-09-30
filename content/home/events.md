@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: events
+widget: pages
 headless: true
 weight: 20
 
@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
   view: 2
   columns: "1"
