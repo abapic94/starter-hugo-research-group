@@ -28,12 +28,15 @@ abstract: Minimal binary linear codes are a special class of binary codes with i
 summary: 
 
 tags:
-- Source Themes
+- Characteristic function
+- Minimal linear codes
+- Root Boolean function 
+- The Ashikhmin-Barg bound
 featured: false
 
-# links:
+ links:
 # - name: ""
-#   url: https://link.springer.com/article/10.1007%2Fs12095-021-00491-1
+  - url: https://link.springer.com/article/10.1007%2Fs12095-021-00491-1
 url_pdf: 
 url_code: ''
 url_dataset: ''
