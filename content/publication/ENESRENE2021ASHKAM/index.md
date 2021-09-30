@@ -1,5 +1,5 @@
 ---
-title: "Several classes of minimal binary linear codes violating the Ashikhmin-Barg bound."
+title: "Several classes of minimal binary linear codes violating the Ashikhmin-Barg bound"
 authors:
 - admin
 - rene
