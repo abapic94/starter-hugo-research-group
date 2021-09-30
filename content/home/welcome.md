@@ -7,11 +7,10 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Center of Cryptography @ UP FAMNIT
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  # Choose how many columns the section has. Valid values: 1 .
   columns: '1'
   # Add custom styles
   css_style:
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+In the modern world, intense research activity in the field of cryptography is extremely important, since cryptographic codes protect information from unauthorized access, alterations and other abuses, making the use of cryptography in economy and industry essential on the national and international levels. Researchers from the University of Primorska have been working for many years in the field of cryptography, and the establishment of the **Center of Cryptography** is the result of their work. The Center will aims to significantly increase the possibilities of cooperation between the university, industry and the wider society, as in the modern society, the exchange and storage of information in an efficient, reliable and safe way, is essential.
