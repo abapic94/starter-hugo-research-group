@@ -7,7 +7,7 @@ authors:
 - Yongzhuang Wei
 
 date: "2021-05-13T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s12095-021-00491-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-30T00:00:00Z"
@@ -34,10 +34,10 @@ tags:
 - The Ashikhmin-Barg bound
 featured: false
 
- links:
+#links:
 # - name: ""
-   url: https://link.springer.com/article/10.1007%2Fs12095-021-00491-1
-url_pdf: 
+#url: https://link.springer.com/article/10.1007%2Fs12095-021-00491-1
+url_pdf: '' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
