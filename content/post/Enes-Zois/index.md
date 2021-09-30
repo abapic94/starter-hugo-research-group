@@ -1,6 +1,11 @@
 ---
 title: Prof. Enes Pasalic, PhD awarded with the Zois Award for outstanding scientific achievements
 date: 2019-11-20
+
+image:
+  caption: 'Image credit: [**UP FAMNIT**](https://famnit.upr.si/en)'
+  focal_point: ""
+  preview_only: false
 ---
 
 <!--more-->
