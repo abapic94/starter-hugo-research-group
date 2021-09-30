@@ -22,11 +22,11 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Minimal binary linear codes are a special class of binary codes with important applications in secret sharing and secure two-party computation. These codes are characterized by the property that none of the nonzero codewords is covered by any other codeword. Denoting by wmin and wmax the minimum and maximum weights of the codewords, respectively, such codes are relatively easy to design when the ratio wmin/ wmax is larger than $1/2$ (known as the Ashikhmin-Barg bound). On the other hand, a few known classes of minimal codes violate this bound, hence having the property $w_{{min}}/ w_{{max}}\leq  1/2$. In this article, we provide several explicit classes of minimal binary linear codes that violate the Ashikhmin-Barg bound while achieving a great variety of the ratio $w_{min}/w_{max}$. Our first generic method employs suitable characteristic functions with relatively low weights within the range $[n + 1,2n− 2]$. The second approach specifies characteristic functions with weights in $[2n− 2 + 1,2n− 2 + 2n− 3 − 1]$, whose supports contain a skewed (removing one element) affine subspace of dimension $n − 2$. Finally, we also characterize an infinite family of minimal codes based on the class of so-called root Boolean functions of weight $2n− 1 − (n − 1)$, useful in specific hardware testing applications. Consequently, many infinite classes of minimal codes crossing the Ashikhmin-Barg bound are derived from an ample range of characteristic functions. In certain cases, we completely specify the weight distributions of the resulting codes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 
+  
 tags:
 - Source Themes
 featured: false
@@ -65,8 +65,4 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+math: true
