@@ -9,6 +9,11 @@ weight: 10  # Order that this section will appear.
 title: |
   Center of Cryptography @ UP FAMNIT
 hero_media: welcome.jpg
+
+gallery_item:
+  caption: Amar
+
+
 design:
   # Choose how many columns the section has. Valid values: 1 .
   columns: '2'
