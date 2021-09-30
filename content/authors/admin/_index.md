@@ -46,8 +46,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+#user_groups:
+#- Researchers
 ---
 
 Prof. dr. Enes Pasalic  is one of the world's leading scientists in the field of design and analysis of symmetric ciphers, and the study of cryptographically interesting discrete combinatorial structures, especially Boolean functions. He participated in the development of the S-box primitive in the new encryption standard used in the 3G mobile network and in the SNOW 3G streaming code for use in the 3GPP standard.  
