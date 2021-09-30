@@ -3,9 +3,9 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: List of articles published before 2021
+title: 
 
-subtitle: 
+subtitle: List of articles published before 2021
 weight: 15  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
