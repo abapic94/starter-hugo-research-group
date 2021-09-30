@@ -45,6 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
+---
 
 Samir Hodžić received his Ph.D. degree in cryptology from the University of Primorska, FAMNIT, Koper, Slovenia, in 2017. In 2019-2020, he has been with the Technical University of Denmark (DTU) as a postdoctoral researcher.  He is currently an assistant proffesor and researcher on UP FAMNIT.  
 
