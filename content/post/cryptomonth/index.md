@@ -2,7 +2,12 @@
 title: November 2020 - Cryptography Month @ UP FAMNIT/IAM
 date: "2019-11-30"
 publishDate: "2019-11-30T17:00:00Z"
-
+authors:
+  - nastja
+  - amar 
+  - rene 
+  - sadmir 
+  - enes
 
 image:
   caption: 'Image credit: [**UP FAMNIT**](https://famnit.upr.si/en)'
