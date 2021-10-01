@@ -1,7 +1,7 @@
 ---
 title: "Proving the conjecture of O’Donnell in certain cases and disproving its general validity"
 authors:
-- kudin
+- sadmir
 - admin
 
 date: "2021-01-31T00:00:00Z"
