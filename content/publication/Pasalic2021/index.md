@@ -27,11 +27,11 @@ abstract: The autocorrelation properties of Boolean functions are closely relate
 summary: 
 
 tags:
- - Boolean functions
- - Bent functions
- - Auto-correlation coefficient
-- Absolute indicator
-- Nonlinearity
+  - Boolean functions
+  - Bent functions
+  - Auto--correlation coefficient
+  - Absolute indicator
+  - Nonlinearity
 
 featured: false
 
