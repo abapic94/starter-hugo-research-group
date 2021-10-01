@@ -13,7 +13,7 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: contact.png
     image_darken: 0
