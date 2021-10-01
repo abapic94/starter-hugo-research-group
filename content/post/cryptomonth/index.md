@@ -7,7 +7,7 @@ authors:
   - amar 
   - rene 
   - sadmir 
-  - enes
+  - admin 
 
 image:
   caption: 'Image credit: [**UP FAMNIT**](https://famnit.upr.si/en)'
