@@ -10,8 +10,6 @@ image:
   preview_only: false
 ---
 
-<!--more-->
-
 We are happy and honoured to announce that our professor and researcher Prof. Enes Pasalic, PhD received the Zois Award for outstanding scientific achievements in the field of cryptography. Zois Awards and Recognitions are the most prestigious awards for exceptional achievements in scientific research and development activities, awarded to researchers in the Republic of Slovenia.
 
 Prof. Enes Pasalic, PhD, has been recognized as one of the world's leading researchers in the area of design and analysis of symmetric ciphers and cryptographically interesting discrete combinatorial structures, especially the Boolean functions. He was part of the research team that developed the new S-box used in the 3G mobile network protocol and in the stream cipher SNOW for use in the 3GPP standard. Between 2012 and 2018, he published 41 scientific articles in high quality journals such as IEEE and Finite Fields and their Applications. Since 2018, he is also leading  the UP FAMNIT Center for Cryptography at the University of Primorska.
