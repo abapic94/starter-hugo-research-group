@@ -29,7 +29,7 @@ summary:
 tags:
   - Boolean functions
   - Bent functions
-  - Auto--correlation coefficient
+  - Auto-correlation coefficient
   - Absolute indicator
   - Nonlinearity
 
