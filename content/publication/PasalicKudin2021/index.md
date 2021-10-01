@@ -1,11 +1,13 @@
 ---
-title: "A new method for secondary constructions of vectorial bent functions"
+title: "Vectorial bent functions weakly/strongly outside the completed Maiorana–McFarland class"
 authors:
-- amar
-- admin
+- admin 
+- Fengron Zhang
+- sadmir
+- Yongzhuang Wei
 
 date: "2021-08-16T00:00:00Z"
-doi: "https://doi.org/10.1007/s10623-021-00930-3"
+doi: "https://doi.org/10.1016/j.dam.2021.02.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-01T00:00:00Z"
@@ -20,18 +22,16 @@ publication_types: ["2"]
 publication: "Designs, Codes and Cryptography"
 publication_short: " "
 
-abstract: In 2017, Tang et al. have introduced a generic construction for bent functions of the form $f(x)=g(x)+h(x)$, where $g$ is a bent function satisfying some conditions and $h$ is a Boolean function. Recently, Zheng et al. (Discret Math 344:112473, 2021) generalized this result to construct large classes of bent vectorial Boolean functions from known ones in the form $F(x)=G(x)+h(X)$, where $G$ is a vectorial bent and $h$  {is} a Boolean function. In this paper, we further generalize this construction to obtain vectorial bent functions of the form $F(x)=G(x)+\\mathbf{H}(X)$, where $\\mathbf{H}$ is also a vectorial Boolean function. This allows us to construct new infinite families of vectorial bent functions, EA-inequivalent to $G$, which was used in the construction. Most notably, specifying $\\mathbf{H} (x)=\\mathbf{h} (Tr_1^n(u_1x),\\ldots,Tr_1^n(u_tx))$, the function $\\mathbf{h}$ can be chosen arbitrarily, which gives a relatively large class of different functions for a fixed function $G$. We also propose a method of constructing vectorial $(n,n)$-functions having maximal number of bent components.
+abstract: Two new classes of bent functions derived from the Maiorana–McFarland ($\\mathcal{M}$) class, so-called $\\mathcal{C}$ and $\\mathcal{D}$, were introduced by Carlet (1994) two decades ago. The difficulty of satisfying their defining conditions was emphasized in Mandal et al. (2016). In a recent work Zhang et al. (2017) a set of efficient sufficient conditions for specifying bent functions in $\\mathcal{C}$ and $\\mathcal{D}$ which are outside the completed $\\mathcal{M}$ class, denoted by $\\mathcal{M}^{\\#}$, was given. A natural follow up question is whether there is a possibility of extending this approach to the vectorial case. We introduce the property of vectorial bent functions that we call weakly or strongly outside $\\mathcal{M}^{\\#}$, referring respectively to the case whether some or all nonzero linear combinations (called components) of its coordinate functions are in class $\\mathcal{C}$ ($or \\mathcal{D}$) but provably outside $\\mathcal{M}^{\\#}$. For the first time, quite different to a straightforward vectorial extension of the Maiorana–McFarland class and the class of Dillon \\mathcal{PS}_{ap}$, we show the existence of several classes of vectorial bent functions whose component functions come from different classes of bent functions, mainly from $\\mathcal{M}$ and $\\mathcal{D}$, and in many cases being weakly outside $\\mathcal{M}^{\\#}$. We also address a difficult problem of specifying vectorial bent functions whose all components are in class $\\mathcal{C}$ but provably outside $\\mathcal{M}^{\\#}$, thus being strongly outside $\\mathcal{M}^{\\#}$. Even though we could only specify a class of such functions whose dimension of bent vector space is only two, thus $F:GF(2)^n\to GF(2)^2$, this is the very first evidence of their existence.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
- - Bent functions 
- - Vectorial bent functions 
- - Algebraic degree 
- - EA equivalence 
- - CCZ equivalence 
- - Maximal number of bent components
+- Bent functions
+- Completed Maiorana–McFarland class
+- Class membership
+- Weakly and strongly outside 
 
 featured: false
 
