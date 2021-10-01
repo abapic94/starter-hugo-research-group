@@ -26,7 +26,7 @@ content:
       captcha: false
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 If you have any questions for our group, use the following form to contact us.
