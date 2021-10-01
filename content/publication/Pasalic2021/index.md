@@ -1,11 +1,12 @@
 ---
-title: "A new method for secondary constructions of vectorial bent functions"
+title: "Constructions of balanced Boolean functions on even number of variables with maximum absolute value in autocorrelation spectra {$<2^{{n/2}^{\star}$}"
 authors:
-- amar
+- Fengrong Zhang
 - admin
+- Yongzhuang Wei
 
-date: "2021-08-16T00:00:00Z"
-doi: "https://doi.org/10.1007/s10623-021-00930-3"
+date: "2021-06-16T00:00:00Z"
+doi: "https://doi.org/10.1016/j.ins.2021.06.037"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-01T00:00:00Z"
@@ -17,10 +18,10 @@ publishDate: "2021-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Designs, Codes and Cryptography"
+publication: "Information Sciences"
 publication_short: " "
 
-abstract: In 2017, Tang et al. have introduced a generic construction for bent functions of the form $f(x)=g(x)+h(x)$, where $g$ is a bent function satisfying some conditions and $h$ is a Boolean function. Recently, Zheng et al. (Discret Math 344:112473, 2021) generalized this result to construct large classes of bent vectorial Boolean functions from known ones in the form $F(x)=G(x)+h(X)$, where $G$ is a vectorial bent and $h$  {is} a Boolean function. In this paper, we further generalize this construction to obtain vectorial bent functions of the form $F(x)=G(x)+\\mathbf{H}(X)$, where $\\mathbf{H}$ is also a vectorial Boolean function. This allows us to construct new infinite families of vectorial bent functions, EA-inequivalent to $G$, which was used in the construction. Most notably, specifying $\\mathbf{H} (x)=\\mathbf{h} (Tr_1^n(u_1x),\\ldots,Tr_1^n(u_tx))$, the function $\\mathbf{h}$ can be chosen arbitrarily, which gives a relatively large class of different functions for a fixed function $G$. We also propose a method of constructing vectorial $(n,n)$-functions having maximal number of bent components.
+abstract: The autocorrelation properties of Boolean functions are closely related to the Shannon’s concept of diffusion and can be accompanied with other cryptographic criteria (such as high nonlinearity and algebraic degree) for ensuring an overall robustness to various cryptanalytic methods. In a series of recent articles [14,9,15], the design methods of $n$-variable balanced Boolean functions n is strictly even) with small absolute indicator $\\Delta_f < 2^{n/2}$ have been considered. Whereas the two first articles managed to solve this problem for relatively large $n\\geq 46$, a recent approach [15] has introduced a generic design framework achieving $\\Delta_f < 2^{n/2}$ for even $n\\geq 22$. Based on a suitable modification of the method of Rothaus, used to construct new bent functions from known ones, we provide a generic iterative framework for designing balanced functions satisfying the condition $\\Delta_f < 2^{n/2}$ and having overall good cryptographic properties for any even n⩾12. Even though the problem of specifying functions having $\\Delta_f < 2^{n/2}$ for smaller $n$ has been considered in [14,9,15] using various search algorithms, our method for the first time provides relatively simple iterative framework for variable spaces of more practical interest. Moreover, our approach can be efficiently applied to certain classes of initial functions (derived from partial spread bent functions) for deriving balanced functions with $\\Delta_f < 2^{n/2}$ for relatively large $n$, namely for $n\\geq 48$ satisfying $n \\mod 4=0$ and $n\\geq 54$ with $n\\mod 4=2$. In the latter case, our nonlinearity bound is better than the one presented in [14].
 
 # Summary. An optional shortened abstract.
 summary: 
