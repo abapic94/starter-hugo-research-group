@@ -1,6 +1,6 @@
 ---
 title: Prof. Enes Pasalic, PhD awarded with the Zois Award for outstanding scientific achievements
-date: 2019-11-20
+date: "2019-11-20"
 publishDate: "2019-11-20T17:00:00Z"
 
 
