@@ -1,5 +1,5 @@
 ---
-title: "Constructions of balanced Boolean functions on even number of variables with maximum absolute value in autocorrelation spectra {$<2^{{n/2}^{\star}$}"
+title: "Constructions of balanced Boolean functions on even number of variables with maximum absolute value in autocorrelation spectra $<2^{n/2}$"
 authors:
 - Fengrong Zhang
 - admin
