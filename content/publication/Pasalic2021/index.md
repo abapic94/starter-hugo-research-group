@@ -27,12 +27,11 @@ abstract: The autocorrelation properties of Boolean functions are closely relate
 summary: 
 
 tags:
- - Bent functions 
- - Vectorial bent functions 
- - Algebraic degree 
- - EA equivalence 
- - CCZ equivalence 
- - Maximal number of bent components
+ - Boolean functions
+ - Bent functions
+ - Auto-correlation coefficient
+- Absolute indicator
+- Nonlinearity
 
 featured: false
 
