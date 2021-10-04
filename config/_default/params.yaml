@@ -12,7 +12,7 @@ font_size: L
 
 # SEO
 
-site_type: Research Group
+site_type: Research
 local_business_type: ''
 org_name: ''
 description: Website of the Center of Cryptography @ UP FAMNIT
@@ -46,8 +46,8 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
-  show_day_night: true
+  show_language: true
+  show_day_night: false
   show_search: true
   highlight_active_link: false
 
