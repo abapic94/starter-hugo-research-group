@@ -22,3 +22,6 @@ main:
   - name: Archive
     url: archive
     weight: 55
+    - name: Projects
+    url: projects
+    weight: 53
