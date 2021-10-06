@@ -17,10 +17,6 @@ design:
   # Choose how many columns the section has. Valid values: 1 .
   columns: '1'
   # Add custom styles
-  css_style:
-    image_position: center
-    text-align: justify;
-  css_class:
 ---
 
 <html>
