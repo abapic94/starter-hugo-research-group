@@ -6,7 +6,7 @@ headless: true
 title: Publications 1999-2011
 
 subtitle: 
-weight: 2011  # section position on page
+weight: 100  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
