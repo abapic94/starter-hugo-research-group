@@ -23,8 +23,16 @@ In November, members of the Center held a series of cryptrographic seminars on U
 
 16.11.2020 - [Cryptographically significant mappings over $\\mathbb{F}_2^n$, Amar Bapić](https://youtu.be/V-_i7WB0jgM)
 
+{{< youtube V-_i7WB0jgM>}}
+
 23.11.2020 - [Minimal linear codes: new constructions, René Rodríguez Aldama](https://www.youtube.com/watch?v=SMMFUPNSNpc&ab_channel=MathematicalResearchSeminarUPFAMNIT)
 
+{{< youtube C6Pe1m7pL2c >}}
+
+
 30.11.2020 - [An Analysis of the C class of Bent Functions, Sadmir Kudin](https://www.youtube.com/watch?v=B2wolmu7LnU&ab_channel=MathematicalResearchSeminarUPFAMNIT)
+
+{{< youtube C6Pe1m7pL2c >}}
+
 
 30.11.2020 - Enes Pasalic
