@@ -26,7 +26,7 @@ design:
 <html>
 <body>
 
-<p style="text-align:center;">Researchers from the University of Primorska have been working for many years in the field of cryptography, and the establishment of the **Center of Cryptography** is the result of their work. The Center aims to significantly increase the possibilities of cooperation between the university, industry and the wider society, as in the modern society, the exchange and storage of information in an efficient, reliable and safe way, is essential.</p>
+<p style="text-align:justify;">Researchers from the University of Primorska have been working for many years in the field of cryptography, and the establishment of the **Center of Cryptography** is the result of their work. The Center aims to significantly increase the possibilities of cooperation between the university, industry and the wider society, as in the modern society, the exchange and storage of information in an efficient, reliable and safe way, is essential.</p>
 
 </body>
 </html>
