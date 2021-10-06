@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Eurocrypt**](https://eurocrypt.iacr.org/2021/)'
+  caption: 'Image credit: [**Trainline**](https://www.thetrainline.com/content/vul/hero-images/city/zagreb/2x.jpg)'
   focal_point: Right
 
 url_code: ""
