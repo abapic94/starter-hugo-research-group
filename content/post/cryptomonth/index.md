@@ -33,6 +33,3 @@ In November, members of the Center held a series of cryptrographic seminars on U
 30.11.2020 - [An Analysis of the C class of Bent Functions, Sadmir Kudin](https://www.youtube.com/watch?v=B2wolmu7LnU&ab_channel=MathematicalResearchSeminarUPFAMNIT)
 
 {{< youtube B2wolmu7LnU >}}
-
-
-30.11.2020 - Enes Pasalic
