@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: pages
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
