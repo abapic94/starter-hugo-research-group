@@ -19,6 +19,7 @@ design:
   # Add custom styles
   css_style:
     image_position: center
+    text-align: justify;
   css_class:
 ---
 
