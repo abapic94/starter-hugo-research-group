@@ -25,3 +25,6 @@ main:
   - name: Projects
     url: projects
     weight: 53
+  - name: Gallery
+    url: gallery
+    weight: 54
