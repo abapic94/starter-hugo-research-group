@@ -19,6 +19,8 @@ In November, members of the Center held a series of cryptrographic seminars on U
 
 09.11.2020 - [Post-Quantum Cryptography, Nastja Cepak](https://youtu.be/C6Pe1m7pL2c)
 
+{{< youtube C6Pe1m7pL2c >}}
+
 16.11.2020 - [Cryptographically significant mappings over $\\mathbb{F}_2^n$, Amar Bapić](https://youtu.be/V-_i7WB0jgM)
 
 23.11.2020 - [Minimal linear codes: new constructions, René Rodríguez Aldama](https://www.youtube.com/watch?v=SMMFUPNSNpc&ab_channel=MathematicalResearchSeminarUPFAMNIT)
