@@ -13,6 +13,9 @@ image:
 ---
 In the second week of January Nastja Cepak and Amar Bapić gave 45min talks for high schoolers on the topic of cryptography for a video series called ["Matematika s kavča"](https://www.druga.si/events/matematicna-predavanja-s-kavca/) hosted by [II. gimnazija Maribor](https://www.druga.si/).
 
+<center>{{< figure src="kavc.jpg" caption="(Copyright: druga.si)" align="center" >}}</center>
+
+
 **dr. Nastja Cepak: O asimetrični kriptografiji in digitalnih potrdilih** (in Slovene)
 
 Človeštvo že tisočletja uporablja šifriranje, vedno pa se srečujemo z istim problemom: kako varno izmenjati šifrirne ključe? Učinkovit odgovor na to vprašanje smo uspeli najti šele v 70. letih s prvimi asimetričnimi kritografskimi algoritmi. Pogledali si bomo, na podlagi česa delujeta dva najširše uporabljena algoritma in kako z njima dodelimo digitalno identiteto osebam, napravam, procesom in še čemu.

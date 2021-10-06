@@ -8,11 +8,8 @@ authors:
   - rene 
   - sadmir 
 
-image:
-  caption: 'Image credit: [**UP FAMNIT**](https://famnit.upr.si/en)'
-  focal_point: ""
-  preview_only: false
 ---
+
 Members of the Center gave an interview for the podcast Hevreka on Radio Rai and talked about their work, cryptography, cryptanalysis, and about why we need both in today's world.
 
 {{< youtube vN2RiH9Hzbw>}}

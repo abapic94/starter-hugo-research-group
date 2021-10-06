@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Uni Rostock**](https://www.wcc2022.uni-rostock.de/home/)'
-  focal_point: Right
+#image:
+ # caption: 'Image credit: [**Uni Rostock**](https://www.wcc2022.uni-rostock.de/home/)'
+  #focal_point: Right
 
 url_code: ""
 url_pdf: ""

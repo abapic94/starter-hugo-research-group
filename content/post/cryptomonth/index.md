@@ -7,12 +7,8 @@ authors:
   - amar 
   - rene 
   - sadmir 
-
-image:
-  caption: 'Image credit: [**UP FAMNIT**](https://famnit.upr.si/en)'
-  focal_point: ""
-  preview_only: false
 ---
+
 
 In November, members of the Center held a series of cryptrographic seminars on UP FAMNIT', describing their research work, and various aspects of cryptography.
 
