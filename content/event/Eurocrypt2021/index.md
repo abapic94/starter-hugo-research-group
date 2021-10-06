@@ -19,7 +19,7 @@ abstract: "Eurocrypt 2021 is the 40th Annual International Conference on the The
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-10-17"
 date_end: "2022-10-21"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-10-06T00:00:00Z"

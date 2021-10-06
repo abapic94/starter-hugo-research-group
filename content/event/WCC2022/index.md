@@ -19,7 +19,7 @@ abstract: "The twelfth in the series of biannual workshops Coding and Cryptograp
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-03-07"
 date_end: "2022-03-11"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-30T00:00:00Z"
