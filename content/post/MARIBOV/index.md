@@ -7,7 +7,7 @@ authors:
   - nastja 
 
 image:
-  caption: 'Image credit: [**II. gimnazija Maribor**](https://www.druga.si/)'
+  caption: 'Image credit: [**FIN-TECH**](https://fintech-ho2020.eu/)'
   focal_point: ""
   preview_only: false
 ---
