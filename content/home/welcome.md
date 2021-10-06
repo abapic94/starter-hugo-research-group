@@ -26,4 +26,4 @@ design:
 </body>
 </html>
 
-{{< figure src="welcome.jpg" caption="A caption" align="center" >}}
+<center>{{< figure src="welcome.jpg" caption="A caption" align="center" >}}</center>
