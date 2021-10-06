@@ -13,12 +13,12 @@ location: Rostock, Germany
   #country: United States
 
 #summary: An example event.
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "The twelfth in the series of biannual workshops Coding and Cryptography will be held from 7 to 11 March 2022 at University of Rostock in Germany. The aim is to bring together researchers in all aspects of coding theory, cryptography and related areas, theoretical or applied."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-07T13:00:00Z"
-date_end: "2022-03-11T15:00:00Z"
+date: "2022-03-07"
+date_end: "2022-03-11"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
