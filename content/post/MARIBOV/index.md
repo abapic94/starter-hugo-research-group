@@ -19,6 +19,8 @@ In the second week of January Nastja Cepak and Amar Bapić gave 45min talks for 
 
 {{<youtube QeK7_s9BJhc>}}
 
+**$\qquad$**
+
 **Amar Bapić: Zodiac Killer's Cipher**
 
 Cryptography has many real-life applications like electronic commerce, chip-based payment cards, digital currencies, computer passwords, military communications, etc. Sometimes we find ourselves in situations in which one would be surprised to find mathematics, and that is in crime scene investigations. In this presentation, we will talk about the infamous American serial killer known as "The Zodiac Killer", who used to send encrypted messages to local newspapers taunting the authorities. We will talk about these ciphers, their structure, and the eventual breaking of one of them recently in December 2019. Throughout the presentation, we will also give a short introduction to symmetric-key cryptography.
