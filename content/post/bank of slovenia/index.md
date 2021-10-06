@@ -1,18 +1,21 @@
 ---
-title: Dr. Nastja Cepak - Veriženje + podatki = blockchain (in Slovene)
-date: "2019-11-27"
-publishDate: "2019-11-27T17:00:00Z"
+title: Workshop for Bank of Slovenia
+date: "2021-06-27"
+publishDate: "2021-06-27T17:00:00Z"
 authors:
   - nastja
 
 image:
-  caption: 'Image credit: [**Matematični izleti v vesolje**](https://matematicni-izleti.famnit.upr.si/sl/zgodovina/201920/program/)'
+  caption: 'Image credit: [**FIN-TECH**](https://fintech-ho2020.eu/)'
   focal_point: ""
   preview_only: false
 ---
+As part of the European [FIN-TECH](https://www.fintech-ho2020.eu/) project, Nastja Cepak, Andrej Cepak, and Marina Markežič organized a two-day workshop on the topic of blockchain for Bank of Slovenia employees.
 
-Nastja Cepak gave a lecture on blockchain, titled "Veriženje + podatki = blockchain", for the cycle of popular science lectures, [Matematični izleti v vesolje](https://matematicni-izleti.famnit.upr.si/sl/zgodovina/201920/program/), held by UP FAMNIT.
-
-{{< youtube A53VbO0hS9U>}}
-
-**Abstract** (in Slovene): O blockchainu smo že veliko slišali, a o tej tehnologiji vemo bolj malo. Kaj blockchain sploh je? Kako je bil razvit in kako deluje? Kaj pa rudarjenje? In kam v to zgodbo sodijo bitcoin in ostale kriptovalute? Na predavanju bomo izvedeli, kako so se idejni osnutki iz 80. letih razvili v koncept blockchaina, ki je bil prvič opisan leta 2008, kako ta deluje in kako se rudarji odločajo, kateri podatki bodo zapisani na njem.
+<p><a href="http://videolectures.net/fin_cepak_uvod/">Uvod in simetrična kriptografija</a>, Nastja Cepak<br />
+<a href="http://videolectures.net/fin_cepak_hash_funkcije/">Hash funkcije</a>, Nastja Cepak<br />
+<a href="http://videolectures.net/fin_cepak_asimetricna_kriptografija/">Asimetrična kriptografija</a>, Nastja Cepak<br />
+<a href="http://videolectures.net/fin_cepak_digitalna_denarnica/">Kaj je digitalna denarnica?</a> Nastja Cepak<br />
+<a href="http://videolectures.net/fin_cepak_algoritmi_prihodnje/">Blockchain algoritmi v prihodnje</a>, Nastja Cepak<br />
+<a href="http://videolectures.net/fin_cepak_pregled_razvoja/">Pregled razvoja trenutnega DeFi prostora</a>, Andrej Cepak<br />
+<a href="http://videolectures.net/fin_markezic_risk_management/">Risk management</a>, Marina Markežič</p>
