@@ -15,5 +15,6 @@ subtitle:
 design:
   columns: '2'
 ---
+Fotke
 
 {{<gallery>}}

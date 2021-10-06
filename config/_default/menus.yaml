@@ -26,5 +26,5 @@ main:
     url: projects
     weight: 53
   - name: Gallery
-    url: gallery
+    url: foto
     weight: 54
