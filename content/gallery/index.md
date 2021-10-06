@@ -8,7 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 66
-
+view: 2
 title: Gallery
 subtitle:
 
