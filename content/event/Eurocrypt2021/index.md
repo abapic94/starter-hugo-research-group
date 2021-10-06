@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Trainline**](https://www.thetrainline.com/content/vul/hero-images/city/zagreb/2x.jpg)'
+  caption: 'Image credit: [**Potepuh**](https://www.potepuh.si/zagreb)'
   focal_point: Right
 
 url_code: ""
