@@ -8,10 +8,10 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Center of Cryptography @ UP FAMNIT
-hero_media: welcome.jpg
+hero_media: 
 
 gallery_item:
-  caption: Center of Cryptography @ UP FAMNIT
+  caption:
 
 
 design:
@@ -25,3 +25,5 @@ design:
 <br>
 
 Researchers from the University of Primorska have been working for many years in the field of cryptography, and the establishment of the **Center of Cryptography** is the result of their work. The Center aims to significantly increase the possibilities of cooperation between the university, industry and the wider society, as in the modern society, the exchange and storage of information in an efficient, reliable and safe way, is essential.
+
+![screen reader text](welcome.jpg "caption")
