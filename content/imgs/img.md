@@ -1,5 +1,5 @@
 ---
-widget : blank
+widget : widget_page
 headless : true
 active : true
 weight: 10
