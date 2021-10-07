@@ -1,15 +1,7 @@
 ---
-widget : blank
-headless : true
-active : true
+# Files in this folder represent a Widget Page (homepage)
+type: widget_page
 
-# ... Put Your Section Options Here (title etc.) ...
-title : 
-
-# Choose how many columns the section has. Valid values: 1 or 2.
-columns : 2
+# Homepage is headless, other widget pages are not.
+headless: true
 ---
-
-Still trying to get used to this
-
-{{< gallery album="gallery" >}}
