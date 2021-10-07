@@ -7,10 +7,6 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: Center of Cryptography @ UP FAMNIT
-hero_media: 
-
-gallery_item:
-  caption:
 
 
 design:
@@ -27,3 +23,5 @@ design:
 </html>
 
 <center>{{< figure src="welcome.jpg" caption="Members of the center (from left to right): Sadmir Kudin; Asst. Prof. Samir Hodžić, PhD; Prof. Enes Pasalic, PhD; Nastja Cepak, PhD; Rene Rodriguez Aldama; Amar Bapić (not present on the photo)" align="center" >}}</center>
+
+{{<gallery>}}
