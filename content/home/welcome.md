@@ -33,4 +33,3 @@ gallery_item:
 
 <center>{{< figure src="welcome.jpg" caption="Members of the center (from left to right): Sadmir Kudin; Asst. Prof. Samir Hodžić, PhD; Prof. Enes Pasalic, PhD; Nastja Cepak, PhD; Rene Rodriguez Aldama; Amar Bapić (not present on the photo)" align="center" >}}</center>
 
-{{< gallery >}}
