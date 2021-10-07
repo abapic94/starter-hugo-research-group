@@ -10,4 +10,4 @@ title : Gallery
 columns : 2
 ---
 
-{{< gallery album="gallery" >}}
+CAOO
