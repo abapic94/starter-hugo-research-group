@@ -2,7 +2,7 @@
 widget : blank
 headless : true
 active : true
-
+weight: 10
 # ... Put Your Section Options Here (title etc.) ...
 title : Gallery
 
