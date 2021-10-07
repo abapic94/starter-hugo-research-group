@@ -13,6 +13,14 @@ design:
   # Choose how many columns the section has. Valid values: 1 .
   columns: '1'
   # Add custom styles
+
+gallery_item:
+- album: 1
+  image: rosendal1.jpg
+  caption: Write your image 1 caption here
+- album: 1
+  image: rosendal3.jpg
+  caption: Write your image 2 caption here
 ---
 
 <html>
@@ -24,4 +32,3 @@ design:
 
 <center>{{< figure src="welcome.jpg" caption="Members of the center (from left to right): Sadmir Kudin; Asst. Prof. Samir Hodžić, PhD; Prof. Enes Pasalic, PhD; Nastja Cepak, PhD; Rene Rodriguez Aldama; Amar Bapić (not present on the photo)" align="center" >}}</center>
 
-{{<gallery album="1">}}
