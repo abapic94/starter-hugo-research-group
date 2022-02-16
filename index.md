@@ -3,6 +3,8 @@ title: Boolean Functions
 summary: Here you can find all the codes I created and use in Sage for my research on Boolean functions.
 date: '2021-01-24'
 type: book
+math: true
+
 ---
 
 ***
